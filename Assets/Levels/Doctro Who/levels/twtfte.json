@@ -1,0 +1,61 @@
+{
+    "stats": {
+        "guessed": false,
+        "last_attempted": null
+    },
+    "answer": ["the woman that fell to earth", "the woman who fell to earth", "twtfte", "twwfte"],
+    "hints": [
+        {
+            "cost": 5,
+            "type": "quote",
+            "content": "Very comfy sofa!"
+        },
+        {
+            "cost": 10,
+            "type": "quote",
+            "content": "I reformatted your phone!"
+        },
+        {
+            "cost": 20,
+            "type": "quote",
+            "content": "Why are you calling me madam?"
+        },
+        {
+            "cost": 20,
+            "type": "location",
+            "content": "Sheffield"
+        },
+        {
+            "cost": 15,
+            "type": "illustration",
+            "content": "../link/to/illustration.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration2.png"
+        },
+        {
+            "cost": 40,
+            "type": "trivia",
+            "content": "This episode marked the first appearance of a female incarnation of the Doctor"
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "13"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S11"
+        },
+        {
+            "cost": 35,
+            "name": "Companion",
+            "content": "Graham, Ryan and Yaz"
+        }
+    ]
+}

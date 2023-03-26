@@ -1,0 +1,61 @@
+{
+    "stats": {
+        "guessed": false,
+        "last_attempted": null
+    },
+    "answer": ["heaven sent"],
+    "hints": [
+        {
+            "cost": 20,
+            "type": "quote",
+            "content": "Can't I just loose?"
+        },
+        {
+            "cost": 35,
+            "type": "quote",
+            "content": "How many seconds in eternity?"
+        },
+        {
+            "cost": 15,
+            "type": "quote",
+            "content": "Tell them, I came the long way round"
+        },
+        {
+            "cost": 20,
+            "type": "location",
+            "content": "a mysterious empty castle"
+        },
+        {
+            "cost": 35,
+            "type": "illustration",
+            "content": "../link/to/illustration.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration2.png"
+        },
+        {
+            "cost": 10,
+            "type": "trivia",
+            "content": "When discussing this episode, the showrunner said that the premise was 'How do we make grief the monster of the week on Doctor Who'"
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "12"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S9"
+        },
+        {
+            "cost": 35,
+            "name": "Companion",
+            "content": "None/Clara Oswald"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "stats": {
+        "guessed": false,
+        "last_attempted": null
+    },
+    "answer": ["heaven sent"],
+    "hints": [
+        {
+            "cost": 45,
+            "type": "quote",
+            "content": "I will always remember when the Doctor was me"
+        },
+        {
+            "cost": 35,
+            "type": "quote",
+            "content": "Never, EVER, tell me the rules!"
+        },
+        {
+            "cost": 40,
+            "type": "quote",
+            "content": "Raggedy man, goodnight"
+        },
+        {
+            "cost": 30,
+            "type": "location",
+            "content": "Trenzalore"
+        },
+        {
+            "cost": 35,
+            "type": "illustration",
+            "content": "../link/to/illustration.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration2.png"
+        },
+        {
+            "cost": 35,
+            "type": "trivia",
+            "content": "This was the last episode of a Doctor"
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "11"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S7 special"
+        },
+        {
+            "cost": 35,
+            "name": "Companion",
+            "content": "Clara Oswald"
+        }
+    ]
+}

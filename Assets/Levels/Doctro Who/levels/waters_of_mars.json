@@ -1,0 +1,61 @@
+{
+    "stats": {
+        "guessed": false,
+        "last_attempted": null
+    },
+    "answer": ["the waters of mars", "waters of mars", "twom"],
+    "hints": [
+        {
+            "cost": 15,
+            "type": "quote",
+            "content": "Three knocks is all you're getting!"
+        },
+        {
+            "cost": 30,
+            "type": "quote",
+            "content": "The laws of time are mine!"
+        },
+        {
+            "cost": 10,
+            "type": "quote",
+            "content": "The Doctor, doctor, fun."
+        },
+        {
+            "cost": 30,
+            "type": "location",
+            "content": "Bowie Base One"
+        },
+        {
+            "cost": 15,
+            "type": "illustration",
+            "content": "../link/to/illustration.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration2.png"
+        },
+        {
+            "cost": 10,
+            "type": "trivia",
+            "content": "This episode had the Doctor say a catchphrase associated with the Master"
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "10"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S4 special"
+        },
+        {
+            "cost": 35,
+            "name": "Companion",
+            "content": "Adelaide"
+        }
+    ]
+}

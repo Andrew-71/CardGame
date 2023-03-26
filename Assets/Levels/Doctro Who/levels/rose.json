@@ -1,0 +1,51 @@
+{
+    "stats": {
+        "guessed": false,
+        "last_attempted": null
+    },
+    "answer": ["heaven sent"],
+    "hints": [
+        {
+            "cost": 20,
+            "type": "quote",
+            "content": "Run for your life!"
+        },
+        {
+            "cost": 5,
+            "type": "location",
+            "content": "London"
+        },
+        {
+            "cost": 35,
+            "type": "illustration",
+            "content": "../link/to/illustration.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration2.png"
+        },
+        {
+            "cost": 45,
+            "type": "trivia",
+            "content": "This was the first episode after the show's return in 2005"
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "9"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S1"
+        },
+        {
+            "cost": 35,
+            "name": "Companion",
+            "content": "Rose Tyler"
+        }
+    ]
+}
