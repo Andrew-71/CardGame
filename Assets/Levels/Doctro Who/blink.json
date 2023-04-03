@@ -3,47 +3,47 @@
         "guessed": false,
         "last_attempted": null
     },
-    "answer": ["the waters of mars", "waters of mars", "twom"],
+    "answer": ["blink"],
     "hints": [
         {
-            "cost": 15,
+            "cost": 10,
             "type": "quote",
-            "content": "Three knocks is all you're getting!"
+            "content": "Don't blink. Blink and you're dead."
         },
         {
             "cost": 30,
             "type": "quote",
-            "content": "The laws of time are mine!"
+            "content": "Sad is happy for deep people."
         },
         {
-            "cost": 10,
+            "cost": 15,
             "type": "quote",
-            "content": "The Doctor, doctor, fun."
+            "content": "It's like they're just... waiting."
+        },
+        {
+            "cost": 20,
+            "type": "location",
+            "content": "West Drumlins"
         },
         {
             "cost": 30,
             "type": "location",
-            "content": "Bowie Base One"
+            "content": "Hull"
         },
         {
-            "cost": 10,
-            "type": "location",
-            "content": "Mars"
-        },
-        {
-            "cost": 15,
+            "cost": 20,
             "type": "illustration",
-            "content": "../link/to/illustration.png"
+            "content": "../link/to/illustration3.png"
         },
         {
-            "cost": 30,
+            "cost": 25,
             "type": "illustration",
-            "content": "../link/to/illustration2.png"
+            "content": "../link/to/illustration4.png"
         },
         {
             "cost": 10,
             "type": "trivia",
-            "content": "This episode had the Doctor say a catchphrase associated with the Master"
+            "content": "This episode introduced the Weeping Angels."
         }
     ],
     "special": [
@@ -55,12 +55,12 @@
         {
             "cost": 30,
             "name": "Series",
-            "content": "S4 special"
+            "content": "S3"
         },
         {
-            "cost": 35,
+            "cost": 25,
             "name": "Companion",
-            "content": "Adelaide"
+            "content": "Sally Sparrow"
         }
     ]
 }

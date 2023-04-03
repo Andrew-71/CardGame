@@ -1,0 +1,66 @@
+{
+    "stats": {
+        "guessed": false,
+        "last_attempted": null
+    },
+    "answer": ["vincent and the doctor", "vincent and the doctor episode"],
+    "hints": [
+        {
+            "cost": 10,
+            "type": "quote",
+            "content": "What's so important about silly little pictures of monsters?"
+        },
+        {
+            "cost": 20,
+            "type": "quote",
+            "content": "We're under attack from the most deadly creatures in the universe."
+        },
+        {
+            "cost": 15,
+            "type": "quote",
+            "content": "There's a lot of things you need to get across this universe. Warp drive, wormhole refractors. You know the thing you need most of all? You need a hand to hold."
+        },
+        {
+            "cost": 25,
+            "type": "location",
+            "content": "Musée d'Orsay"
+        },
+        {
+            "cost": 15,
+            "type": "location",
+            "content": "Auvers-sur-Oise"
+        },
+        {
+            "cost": 20,
+            "type": "illustration",
+            "content": "../link/to/illustration5.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration6.png"
+        },
+        {
+            "cost": 10,
+            "type": "trivia",
+            "content": "This episode was written by Richard Curtis, the creator of Love Actually."
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "11"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S5"
+        },
+        {
+            "cost": 25,
+            "name": "Companion",
+            "content": "Amy Pond"
+        }
+    ]
+    }

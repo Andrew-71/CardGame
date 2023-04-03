@@ -1,0 +1,66 @@
+{
+    "stats": {
+    "guessed": false,
+    "last_attempted": null
+    },
+    "answer": ["the eleventh hour", "eleventh hour", "the 11th hour", "11th hour"],
+    "hints": [
+        {
+            "cost": 10,
+            "type": "quote",
+            "content": "Bow ties are cool."
+        },
+        {
+            "cost": 20,
+            "type": "quote",
+            "content": "Basically, run."
+        },
+        {
+            "cost": 15,
+            "type": "quote",
+            "content": "I'm the Doctor. I'm worse than everybody's aunt."
+        },
+        {
+            "cost": 25,
+            "type": "location",
+            "content": "Leadworth"
+        },
+        {
+            "cost": 15,
+            "type": "location",
+            "content": "Atraxi prison"
+        },
+        {
+            "cost": 20,
+            "type": "illustration",
+            "content": "../link/to/illustration3.png"
+        },
+        {
+            "cost": 30,
+            "type": "illustration",
+            "content": "../link/to/illustration4.png"
+        },
+        {
+            "cost": 10,
+            "type": "trivia",
+            "content": "This episode marked the beginning of the Eleventh Doctor's tenure as the show's lead character."
+        }
+    ],
+    "special": [
+        {
+            "cost": 20,
+            "name": "Which Doctor",
+            "content": "11"
+        },
+        {
+            "cost": 30,
+            "name": "Series",
+            "content": "S5"
+        },
+        {
+            "cost": 25,
+            "name": "Companion",
+            "content": "Amy Pond"
+        }
+    ]
+}

@@ -35,7 +35,7 @@ class Level
 public class LevelManagement : MonoBehaviour
 {
     public TextAsset categoriesFolder;
-    [Serializable] private 
+    [Serializable] private int stuff;
 
     void Start()
     {
