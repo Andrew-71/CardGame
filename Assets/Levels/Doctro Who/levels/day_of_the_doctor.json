@@ -1,0 +1,66 @@
+{
+    "stats": {
+    "guessed": false,
+    "last_attempted": null
+    },
+    "answer": ["day of the doctor", "the day of the doctor"],
+    "hints": [
+    {
+    "cost": 10,
+    "type": "quote",
+    "content": "No more."
+    },
+    {
+    "cost": 20,
+    "type": "quote",
+    "content": "All thirteen!"
+    },
+    {
+    "cost": 15,
+    "type": "quote",
+    "content": "Bad Wolf girl, I could kiss you!"
+    },
+    {
+    "cost": 25,
+    "type": "location",
+    "content": "Gallows Hill"
+    },
+    {
+    "cost": 20,
+    "type": "location",
+    "content": "The National Gallery"
+    },
+    {
+    "cost": 20,
+    "type": "illustration",
+    "content": "../link/to/illustration5.png"
+    },
+    {
+    "cost": 30,
+    "type": "illustration",
+    "content": "../link/to/illustration6.png"
+    },
+    {
+    "cost": 10,
+    "type": "trivia",
+    "content": "This episode was the 50th anniversary special of Doctor Who, and featured multiple incarnations of the Doctor working together to save their home planet of Gallifrey."
+    }
+    ],
+    "special": [
+    {
+    "cost": 20,
+    "name": "Which Doctor",
+    "content": "10, 11, and War"
+    },
+    {
+    "cost": 30,
+    "name": "Series",
+    "content": "50th anniversary special"
+    },
+    {
+    "cost": 35,
+    "name": "Companion",
+    "content": "Clara Oswald"
+    }
+    ]
+    }
