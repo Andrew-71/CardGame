@@ -6,7 +6,7 @@ public class CardManager : MonoBehaviour
 {
     public GameObject card;
     // TODO: How do I add Card as prefab var?
-    private List<Transform> test
+    private List<Transform> test;
     // Start is called before the first frame update
     void Start()
     {

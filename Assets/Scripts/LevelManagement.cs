@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // TODO: Move all of *gestures broadly* this into its own file!
-
+/*
 [Serializable]
 public class Category
 {
@@ -31,6 +31,7 @@ class Level
     bool guessed;
     int last_guessed;
 }
+*/
 
 public class LevelManagement : MonoBehaviour
 {
@@ -49,7 +50,7 @@ public class LevelManagement : MonoBehaviour
 
     void updateCategories()
     {
-        Category category = JsonUtility.FromJson<Category>(jsonFile.text);  // TODO: Yes, this just loads a single category.
+        //Category category = JsonUtility.FromJson<Category>(jsonFile.text);  // TODO: Yes, this just loads a single category.
     }
 
     void GetCategoryStats(string name) 

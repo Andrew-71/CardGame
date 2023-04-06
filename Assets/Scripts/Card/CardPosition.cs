@@ -17,10 +17,11 @@ public class SpritePosition : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
     }
 
     void MoveTO(float x, float y) {
-        card.positon = Vec3f(x, y, 0)
+        //card.positon = (x, y, 0);
     }
+
+    
 }
